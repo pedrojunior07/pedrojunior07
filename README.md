@@ -27,9 +27,9 @@ Estudante finalista da Licenciatura em Informática pela UEM, com experiência p
 
 <div align="center">
   
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromanjate&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromanjate&layout=compact&theme=radical&langs_count=8)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pedromanjate&theme=radical)
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrojunior07&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrojunior07&layout=compact&theme=radical&langs_count=8)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pedrojunior07&theme=radical)
 
 </div>
 
