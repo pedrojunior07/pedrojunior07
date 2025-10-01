@@ -10,29 +10,21 @@
 
 ## 🚀 Sobre Mim
 
-```python
-class PedroManjate:
-    def __init__(self):
-        self.name = "Pedro Manjate Júnior"
-        self.role = "Full Stack Developer"
-        self.location = "Maputo, Mozambique 🇲🇿"
-        self.education = "Computer Science @ UEM"
-        self.languages = ["Portuguese (Native)", "English (Advanced)"]
-        
-    def get_skills(self):
-        return {
-            "backend": ["Java", "Spring Boot", "Node.js", "Python", "PHP", "Django", "Flask", "Laravel"],
-            "frontend": ["React", "React Native", "Flutter", "JavaScript", "TypeScript", "HTML5", "CSS3"],
-            "databases": ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
-            "devops": ["Docker", "Kubernetes", "Jenkins", "GitLab CI/CD", "GitHub Actions"],
-            "cloud": ["Alibaba Cloud", "AWS", "Google Cloud"],
-            "networking": ["Cisco", "TCP/IP", "DNS", "VPN", "Windows Server"],
-            "tools": ["Git", "Linux", "Nginx", "Apache", "RabbitMQ", "Kafka"]
-        }
-    
-    def current_focus(self):
-        return ["Microservices Architecture", "Cloud Native Development", "DevOps Practices"]
-```
+Estudante finalista da **Licenciatura em Informática pela UEM**, com sólida experiência em desenvolvimento Full Stack e infraestrutura de TI. Especializado em criar soluções tecnológicas completas e integradas, desde o backend até o frontend, passando por DevOps e Cloud.
+
+### 🎯 Áreas de Expertise
+
+- 💻 **Desenvolvimento Full Stack**: Java, Spring Boot, React, Node.js, Python
+- ☁️ **Cloud & DevOps**: Docker, Kubernetes, CI/CD, Alibaba Cloud, AWS
+- 🗄️ **Databases**: MySQL, PostgreSQL, MongoDB, Redis
+- 🌐 **Networking**: Cisco, TCP/IP, Windows Server
+- 📱 **Mobile Development**: React Native, Flutter
+
+### 🔭 Atualmente focado em:
+- Arquitetura de Microserviços
+- Desenvolvimento Cloud Native
+- Práticas DevOps e CI/CD
+- Otimização de Performance
 
 <div align="center">
 
