@@ -1,115 +1,206 @@
-# Pedro Manjate Júnior - Desenvolvedor Full Stack
+# Pedro Manjate Júnior
 
-![Header](https://github.com/pedromanjate/pedromanjate/raw/main/banner.gif)
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6DB33F&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Network+Engineer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50&animation=fadeIn&fontAlignY=35)
+
+</div>
+
+## 🚀 Sobre Mim
+
+```python
+class PedroManjate:
+    def __init__(self):
+        self.name = "Pedro Manjate Júnior"
+        self.role = "Full Stack Developer"
+        self.location = "Maputo, Mozambique 🇲🇿"
+        self.education = "Computer Science @ UEM"
+        self.languages = ["Portuguese (Native)", "English (Advanced)"]
+        
+    def get_skills(self):
+        return {
+            "backend": ["Java", "Spring Boot", "Node.js", "Python", "PHP", "Django", "Flask", "Laravel"],
+            "frontend": ["React", "React Native", "Flutter", "JavaScript", "TypeScript", "HTML5", "CSS3"],
+            "databases": ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
+            "devops": ["Docker", "Kubernetes", "Jenkins", "GitLab CI/CD", "GitHub Actions"],
+            "cloud": ["Alibaba Cloud", "AWS", "Google Cloud"],
+            "networking": ["Cisco", "TCP/IP", "DNS", "VPN", "Windows Server"],
+            "tools": ["Git", "Linux", "Nginx", "Apache", "RabbitMQ", "Kafka"]
+        }
+    
+    def current_focus(self):
+        return ["Microservices Architecture", "Cloud Native Development", "DevOps Practices"]
+```
 
 <div align="center">
 
+## 💻 Tech Stack
+
+### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Backend Frameworks
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### Operating Systems & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+
+### Networking & Infrastructure
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
-## 👋 Sobre Mim
-
-Estudante finalista da Licenciatura em Informática pela UEM, com experiência prática em programação desktop e mobile. Possuo competências sólidas em gestão e manutenção de redes, administração de servidores Windows, eletrónica e configuração de equipamentos Cisco. Atuo também na criação de conteúdos para internet, unindo conhecimentos de desenvolvimento de software e infraestrutura para propor soluções tecnológicas completas e integradas.
-
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
   
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrojunior07&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrojunior07&layout=compact&theme=radical&langs_count=8)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pedrojunior07&theme=radical)
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrojunior07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pedrojunior07&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrojunior07&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
 
 </div>
 
-## 🛠️ Habilidades Técnicas
+## 🏆 GitHub Trophies
 
-### Linguagens de Programação
-![Java](https://img.shields.io/badge/Java-Expert-red?style=flat-square&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-orange?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/Python-Intermediate-yellow?style=flat-square&logo=python)
-![PHP](https://img.shields.io/badge/PHP-Intermediate-yellow?style=flat-square&logo=php)
-![Dart](https://img.shields.io/badge/Dart-Intermediate-yellow?style=flat-square&logo=dart)
+<div align="center">
 
-### Frameworks e Bibliotecas
-![Spring](https://img.shields.io/badge/Spring_Framework-Expert-red?style=flat-square&logo=spring)
-![Node.js](https://img.shields.io/badge/Node.js-Advanced-orange?style=flat-square&logo=node.js)
-![React](https://img.shields.io/badge/React-Advanced-orange?style=flat-square&logo=react)
-![React Native](https://img.shields.io/badge/React_Native-Intermediate-yellow?style=flat-square&logo=react)
-![Flutter](https://img.shields.io/badge/Flutter-Intermediate-yellow?style=flat-square&logo=flutter)
-![Laravel](https://img.shields.io/badge/Laravel-Intermediate-yellow?style=flat-square&logo=laravel)
+![trophy](https://github-profile-trophy.vercel.app/?username=pedrojunior07&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
 
-### Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-Advanced-orange?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-yellow?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-yellow?style=flat-square&logo=postgresql)
+</div>
 
-### Cloud & DevOps
-![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-Certified-blue?style=flat-square&logo=alibabacloud)
-![Docker](https://img.shields.io/badge/Docker-Intermediate-yellow?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/Git-Advanced-orange?style=flat-square&logo=git)
+## 📈 Contribution Graph
 
-### Redes e Infraestrutura
-![Cisco](https://img.shields.io/badge/Cisco_Networking-Advanced-orange?style=flat-square&logo=cisco)
-![Windows Server](https://img.shields.io/badge/Windows_Server-Intermediate-yellow?style=flat-square&logo=windows)
+<div align="center">
 
-## 📈 Gráfico de Competências
+[![Pedro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrojunior07&theme=tokyo-night&hide_border=true)](https://github.com/pedrojunior07)
 
-```mermaid
-radar-beta
-  title - Perfil de Competências
-  axis java["Java"], js["JavaScript"], python["Python"]
-  axis spring["Spring"], node["Node.js"], react["React"]
-  axis cloud["Cloud"], db["Banco de Dados"], devops["DevOps"]
-  
-  curve pedro["Pedro Manjate"]{7, 8, 6, 9, 8, 8, 7, 8, 7}
-  max 10
-```
+</div>
 
-## 🎓 Formação
+## 💼 Professional Experience
 
-- **Licenciatura em Informática** - Universidade Eduardo Mondlane (UEM) - 2022–2025 (Em Andamento)
-- **Services, Microservices & DevOps** - ICT4DEV - Agosto de 2024 (Concluído)
-- **Certificação Alibaba Cloud** - Alibaba Cloud Academy (Concluído)
+### 👨‍🏫 Teaching Assistant - Computer Science
+**Universidade Eduardo Mondlane (UEM)** | *2023 - Present*
+- Supporting faculty in course preparation and delivery
+- Providing technical and pedagogical support to students during practical sessions
+- Collaborating on curriculum development and course structure
 
-## 💼 Experiência Profissional
+### 💻 Full Stack Developer - Stock Management Systems
+**Freelance** | *2022 - Present*
+- Developing and implementing inventory management systems for microenterprises
+- Creating solutions for stock control, entry and exit tracking
+- Improving operational processes for resource-limited businesses
+- Technologies: Java, Spring Boot, React, MySQL, Docker
 
-### 👨‍🏫 Assistente de Docência – Disciplina de Informática
-**Universidade Eduardo Mondlane (UEM)**
-- Prestação de apoio ao docente responsável na preparação e condução das aulas
-- Suporte técnico e pedagógico aos estudantes durante sessões práticas
-- Colaboração na organização e estruturação do conteúdo programático
+## 🎓 Education & Certifications
 
-### 💻 Desenvolvedor de Sistemas de Gestão de Stock para Microempresas
-- Criação e implementação de sistemas simples de gestão de stock
-- Organização de inventário, controle de entradas e saídas
-- Melhoria dos processos operacionais para microempresas com recursos limitados
+🎓 **Bachelor's Degree in Computer Science**  
+*Universidade Eduardo Mondlane (UEM)* | 2022 - 2025 (In Progress)
 
-## 🌐 Idiomas
+📜 **Services, Microservices & DevOps**  
+*ICT4DEV* | August 2024
 
-- **Português** - Nativo
-- **Inglês** - Avançado
+☁️ **Alibaba Cloud Certified**  
+*Alibaba Cloud Academy* | 2024
 
-## 📫 Contato
+🌐 **Cisco Networking Fundamentals**  
+*Cisco Networking Academy* | 2023
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrojunior07&repo=stock-management-system&theme=tokyonight&hide_border=true)](https://github.com/pedrojunior07/stock-management-system)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrojunior07&repo=microservices-architecture&theme=tokyonight&hide_border=true)](https://github.com/pedrojunior07/microservices-architecture)
+
+</div>
+
+## 📫 Connect With Me
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-manjate-junior-dev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manjate925@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/258874381448)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedromanjate)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://pedromanjate.github.io)
 
-📍 **Localização**: Maputo - Matola, Moçambique
+📍 **Location:** Maputo - Matola, Mozambique 🇲🇿
+
+</div>
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+## 📊 Profile Views
+
+<div align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/pedrojunior07/count.svg)
+
+</div>
 
 ---
 
-⭐️ *Do [pedromanjate](https://github.com/pedromanjate)*
+<div align="center">
+
+### 💚 Show some love by starring some repositories!
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
+
+</div>
