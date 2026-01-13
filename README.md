@@ -1,144 +1,59 @@
+# Pedro Manjate Júnior
+
 <div align="center">
 
-# 👨‍💻 Pedro Manjate Júnior
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2B6CB0&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Machine+Learning+Engineer;Hackathon+Winner+%F0%9F%8F%86;Cloud+%26+DevOps+Enthusiast)](https://git.io/typing-svg)
 
-### Full-Stack Developer • Machine Learning Engineer • DevOps Enthusiast
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-manjate-junior-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedrojunior07)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manjate925@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/258874381448)
-
-📍 **Maputo, Mozambique** 🇲🇿
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-manjate-junior-dev/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:manjate925@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/258874381448)
 
 </div>
 
 ---
 
-## 🎯 Sobre Mim
+## 👨‍💻 About Me
 
-```typescript
-const pedro = {
-    localização: "Maputo, Moçambique 🇲🇿",
-    educação: "Ciência da Computação @ UEM",
-    status: "Aguardando defesa de tese 🎓",
-    foco: ["Full-Stack Development", "Machine Learning", "DevOps/Cloud"],
-    paixões: ["Competições de dados", "Produtos reais", "Rock/Metal 🎸"],
-    objetivo: "Construir soluções que fazem diferença"
-};
-```
+Computer Science student at **Eduardo Mondlane University (UEM)**, Mozambique. Passionate about building complete tech solutions from backend to frontend, with expertise in Machine Learning and Cloud technologies.
 
----
-
-## 🏆 Conquistas
-
-<div align="center">
-
-| 🥇 **1º Lugar** | 🥇 **1º Lugar** |
-|:---:|:---:|
-| **Maputo Mobility Prediction** | **AI Telco Troubleshooting** |
-| Zindi Africa & Yango (2025) | Zindi Africa |
-| Ensemble ML (XGBoost, LightGBM, CatBoost) | Resolução de problemas telecom com IA |
-
-</div>
+🏆 **1st Place** - Maputo Mobility Prediction Hackathon 2025 (Zindi/Yango)  
+🏆 **1st Place** - AI Telco Troubleshooting Challenge (Zindi Africa)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages & Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Backend & Frameworks
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-### 🤖 Machine Learning & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### ☁️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
----
-
-## 🚀 Projetos em Destaque
-
 <div align="center">
 
-### 🌐 AI Translation Software
-**Tradução inteligente preservando estrutura e formatação**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-Sistema que traduz documentos mantendo formatação original com baixo custo computacional.
-
-[🔗 Ver Repositório](https://github.com/pedrojunior07)
-
----
-
-### 📚 E-Learning Platform
-**Plataforma de cursos com gestão completa**
+**Frameworks & Libraries**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-
-Plataforma com gestão de conteúdo, progresso de alunos e certificados.
-
-[🔗 Ver Repositório](https://github.com/pedrojunior07)
-
----
-
-### 📄 Parish Management System
-**Sistema de gestão documental com IA (Projeto de Tese)**
-
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+**Machine Learning**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=xgboost&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+**Databases & DevOps**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![AI](https://img.shields.io/badge/OCR/CNN-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-Gestão documental paroquial com processamento de manuscritos usando OCR e CNN+LSTM.
-
-[🔗 Ver Repositório](https://github.com/pedrojunior07)
-
----
-
-### 🎯 Marketing Automation Software
-**Automação de marketing com analytics**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square)
-
-Plataforma de automação com gestão de campanhas e análise de dados.
-
-[🔗 Ver Repositório](https://github.com/pedrojunior07)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
@@ -147,71 +62,45 @@ Plataforma de automação com gestão de campanhas e análise de dados.
 ## 📊 GitHub Stats
 
 <div align="center">
+  
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrojunior07&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrojunior07&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrojunior07&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrojunior07&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pedrojunior07&theme=radical&hide_border=true&background=0D1117)
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=pedrojunior07&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 💼 Experiência
+## 🚀 Featured Projects
 
-### 👨‍🏫 Teaching Assistant - Ciência da Computação
-**Universidade Eduardo Mondlane (UEM)**
-- Assistência em aulas práticas de programação
-- Suporte técnico e pedagógico a estudantes
-- Avaliação e acompanhamento de progresso
-
-### 💻 Freelance Systems Developer
-**Autônomo**
-- Desenvolvimento de sistemas de gestão de inventário
-- Soluções web e mobile customizadas
-- Consultoria em infraestrutura e networking
+| Project | Description | Tech |
+|---------|-------------|------|
+| **AI Translation Software** | Document translation preserving structure | Python, NLP |
+| **E-Learning Platform** | Online courses with progress tracking | React, Node.js, MongoDB |
+| **Parish Management System** | Document management with AI/OCR | Laravel, PostgreSQL, CNN |
+| **Inventory Systems** | Stock control for small businesses | Java, Spring Boot, MySQL |
 
 ---
 
-## 🎓 Formação & Certificações
+## 🎓 Education & Certifications
 
-**🎓 Licenciatura em Ciência da Computação**  
-Universidade Eduardo Mondlane (UEM) | 2022 – 2025
-
-**📜 Certificações:**
-- Services, Microservices & DevOps - ICT4DEV (2024)
-- ECS Management - Alibaba Cloud (Em Progresso)
-- DevSecOps - Alibaba Cloud (Em Progresso)
-- OpenMRS – Bioinformatics - UEM
-- Electronic Government - Russian State Geological Research University
+- 📚 **B.Sc. Computer Science** - UEM (2022-2025) - *Awaiting Thesis Defense*
+- ☁️ **ECS Management & DevSecOps** - Alibaba Cloud *(In Progress)*
+- 🔧 **Services, Microservices & DevOps** - ICT4DEV (2024)
+- 🏥 **OpenMRS Bioinformatics** - UEM Faculty of Medicine
+- 🏛️ **e-Government** - Russian State Geological Research University
 
 ---
-
-## 🎸 Quando não estou a codar...
-
-```python
-hobbies = {
-    "música": ["Rock", "Metal 🤘"],
-    "competições": ["Hackathons", "ML Challenges"],
-    "aprendizado": ["Novas tecnologias", "DevOps", "Cloud"]
-}
-```
-
----
-
-## 📫 Contacto
 
 <div align="center">
 
-**Vamos construir algo incrível juntos!**
+**📍 Maputo, Mozambique 🇲🇿**
 
-[![Email](https://img.shields.io/badge/manjate925@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manjate925@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/pedro--manjate--junior--dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-manjate-junior-dev)
-[![WhatsApp](https://img.shields.io/badge/+258_87_438_1448-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/258874381448)
-
----
-
-⭐️ From [pedrojunior07](https://github.com/pedrojunior07) | Made with ❤️ in Mozambique 🇲🇿
+![Profile Views](https://komarev.com/ghpvc/?username=pedrojunior07&color=2B6CB0&style=flat-square)
 
 </div>
